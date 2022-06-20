@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+:root {
+  --color-bg: #1f1f38;
+  --color-bg-variant: #2c2c6c;
+  --color-primary: #4db5ff;
+  --color-primary-variant: rgba(77, 181, 255, 0.4);
+  --color-white: #fff;
+  --color-light: rgba(255, 255, 255, 0.6);
+  --container-width-lg: 75%;
+  --container-width-md: 86%;
+  --container-width-sm: 90%;
+}
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+  scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  background: var(--color-bg);
+  color: var(--color-white);
+}
+
+input {
+  border: none;
+  /* Removes the default border */
+}
+
+input:focus {
+  outline: none;
+  /* Removes the border when the input is clicked */
+}
+
+button,
+input[type="submit"],
+input[type="reset"] {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+li a {
+  text-decoration: none;
+}
+
+a,
+a:visited,
+a:active {
+  text-decoration: none;
+}
+
+/* general styles*/
+
+.container {
+  width: var(--container-width-lg);
+  margin-inline: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 500;
+  line-height: 1.1;
+  margin-top: 0;
+  margin-left: 1rem;
+}
+
+h1 {
+  font-size: clamp(1.75rem, 1rem + 2vw, 2.5rem);
+}
+
+h2 {
+  font-size: clamp(1.375rem, 0.875rem + 1.5vw, 2.25rem);
+}
+
+p {
+  margin-top: 0;
+  font-size: 1rem;
+}
+section {
+  margin-top: 8rem;
+}
