@@ -6,7 +6,7 @@ import JadeChat from "../../assets/chat.PNG";
 
 const Work = () => {
   return (
-    <section id="work">
+    <section id="projects">
       <h5>My Recent Work</h5>
       <h2>Projects</h2>
       <div className="container work__container">

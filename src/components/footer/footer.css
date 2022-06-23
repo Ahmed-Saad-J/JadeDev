@@ -1,0 +1,17 @@
+footer {
+  background: var(--color-primary);
+  padding: 3rem 0;
+  text-align: center;
+  margin-top: 5rem;
+}
+.footer__socials {
+  margin-bottom: 4rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.3rem;
+}
+footer a {
+  font-size: 3rem;
+
+  color: var(--color-bg);
+}

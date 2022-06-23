@@ -40,7 +40,8 @@ input {
   /* Removes the default border */
 }
 
-input:focus {
+input:focus,
+textarea:focus {
   outline: none;
   /* Removes the border when the input is clicked */
 }
