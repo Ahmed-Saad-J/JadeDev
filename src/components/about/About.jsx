@@ -15,8 +15,8 @@ const About = () => {
         <div className="about__content">
           <p>
             Hello! My name is Ahmed saad. I am an informatics and computer
-            science student who specializes in software engineering in the
-            Britich university in egypt, I am also a full-stack developer with a
+            science student who specializes in software engineering at the
+            British university in Egypt, I am also a full-stack developer with a
             passion for back-end development, and I always enjoy learning new
             things in my free time.{" "}
           </p>
