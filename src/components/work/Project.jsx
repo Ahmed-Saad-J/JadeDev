@@ -8,7 +8,7 @@ const Project = (props) => {
       </div>
       <h3>{props.title}</h3>
       <p>{props.desc}</p>
-      <a href={props.github} className="btn" target="_target">
+      <a href={props.github} className="btn" target="_blank">
         GitHub
       </a>
     </article>

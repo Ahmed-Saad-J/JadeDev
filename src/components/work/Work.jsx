@@ -14,13 +14,13 @@ const Work = () => {
           img={Heliotrope}
           title="Heliotrope"
           desc="An E-commerce web app for jewellery built with Node, Express, PassportJS, and MongoDB"
-          github="https://github.com/JadenSnow9/heliotrope"
+          github="https://github.com/Ahmed-Saad-J/heliotrope"
         />
         <Project
           img={JadeChat}
           title="Jade Chat"
           desc="A simple group chat web app built with Node, Express, PassportJS, SocketIO, and MongoDB"
-          github="https://github.com/JadenSnow9/jade-chat"
+          github="https://github.com/Ahmed-Saad-J/jade-chat"
         />
       </div>
     </section>

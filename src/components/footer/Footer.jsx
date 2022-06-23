@@ -7,13 +7,16 @@ const Footer = () => {
   return (
     <footer>
       <div className="footer__socials">
-        <a href="https://linkedin.com" target="_blank">
+        <a
+          href="https://www.linkedin.com/in/ahmed-saad-b9526a205/"
+          target="_blank"
+        >
           <BsLinkedin />
         </a>
-        <a href="mailto:ahmedsa39d999@gmail.com">
+        <a href="mailto:ahmed.sa3dj@gmail.com">
           <IoMdMailOpen />
         </a>
-        <a href="https://github.com" target="_blank">
+        <a href="https://github.com/Ahmed-Saad-J" target="_blank">
           <BsGithub />
         </a>
       </div>

@@ -38,10 +38,13 @@ const Contact = () => {
       <h2>Contact Me</h2>
       <div className="container contact__container">
         <div className="contact__options">
-          <a href="https://linkedin.com" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/ahmed-saad-b9526a205/"
+            target="_blank"
+          >
             <BsLinkedin />
           </a>
-          <a href="mailto:ahmedsa39d999@gmail.com">
+          <a href="mailto:ahmed.sa3dj@gmail.com">
             <IoMdMailOpen />
           </a>
         </div>
