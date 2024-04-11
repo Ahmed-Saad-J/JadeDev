@@ -10,9 +10,9 @@ const Experience = () => {
         <div className="experience__education">
           <h3>Education</h3>
           <div className="education__content">
-            <h4 className="bold">Informatics And Computer Science</h4>
-            <h5>the British university in Egypt</h5>
-            <small className="text-light">09/2019 - Present</small>
+            <h4 className="bold">London South Bank University</h4>
+            <h5>Bachelor of Science in informatics and computer science<br/> Major: software engineering</h5>
+            <small className="text-light">09/2019 - 07/2023</small>
           </div>
         </div>
         <div className="experience__work">
@@ -23,17 +23,25 @@ const Experience = () => {
             <small className="text-light">Aug 2021 - Nov 2021</small>
           </div>
         </div>
+        <div className="experience__work">
+          <h3>Work</h3>
+          <div className="education__content">
+            <h4 className="bold">Software Developer</h4>
+            <h5>Right Group</h5>
+            <small className="text-light">July 2023 - Present</small>
+          </div>
+        </div>
         <div className="experience__technologies">
           <h3>Technologies I Worked With</h3>
           <div className="technologies__content">
-            <Technology name="NodeJs" />
-            <Technology name="Express" />
+            <Technology name=".Net Core" />
+            <Technology name="NodeJS" />
             <Technology name="Django" />
-            <Technology name="MySql" />
-            <Technology name="MongoDB" />
-            <Technology name="Css" />
+            <Technology name="SQL" />
+            <Technology name="NoSQL" />
             <Technology name="Sass" />
-            <Technology name="ReactJS" />
+            <Technology name="Angular" />
+            <Technology name="React" />
           </div>
         </div>
       </div>

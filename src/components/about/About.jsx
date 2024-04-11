@@ -14,11 +14,9 @@ const About = () => {
         </div>
         <div className="about__content">
           <p>
-            Hello! My name is Ahmed saad. I am an informatics and computer
-            science student who specializes in software engineering at the
-            British university in Egypt, I am also a full-stack developer with a
-            passion for back-end development, and I always enjoy learning new
-            things in my free time.{" "}
+          Hey there! I'm Ahmed Saad, a software developer passionate about crafting robust solutions.
+           Having graduated with a specialization in software engineering from the London South Bank University, I have a year of industry experience. My journey started as an informatics and computer science student,
+           evolving into a full-fledged software developer. And I can't wait for my next evolution!  {" "}
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
