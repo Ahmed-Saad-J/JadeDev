@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/JadeDev/static/css/main.21d3ea1e.css",
-    "main.js": "/JadeDev/static/js/main.490f873f.js",
+    "main.js": "/JadeDev/static/js/main.c4d88227.js",
     "static/media/Heliotrope.PNG": "/JadeDev/static/media/Heliotrope.b1c6cf6e2ef3ff2987de.PNG",
-    "static/media/CV.pdf": "/JadeDev/static/media/CV.640fe18a2c64d154b146.pdf",
+    "static/media/CV.pdf": "/JadeDev/static/media/CV.2978f8949290f489cd47.pdf",
     "static/media/me.jpeg": "/JadeDev/static/media/me.54c80e828445f82fdb1c.jpeg",
     "static/media/chat.PNG": "/JadeDev/static/media/chat.ddd37045f127cb8d25d2.PNG",
     "index.html": "/JadeDev/index.html",
     "main.21d3ea1e.css.map": "/JadeDev/static/css/main.21d3ea1e.css.map",
-    "main.490f873f.js.map": "/JadeDev/static/js/main.490f873f.js.map"
+    "main.c4d88227.js.map": "/JadeDev/static/js/main.c4d88227.js.map"
   },
   "entrypoints": [
     "static/css/main.21d3ea1e.css",
-    "static/js/main.490f873f.js"
+    "static/js/main.c4d88227.js"
   ]
 }
